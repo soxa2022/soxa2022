@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning in SoftUni
+- 🌱 I’m currently learning Flask Framework in SoftUni
 
 - 📫 How to reach me:
  
